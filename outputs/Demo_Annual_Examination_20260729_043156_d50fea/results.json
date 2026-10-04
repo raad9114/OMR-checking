@@ -1,0 +1,434 @@
+[
+  {
+    "record_id": "paper_0001",
+    "source_file": "student_18.png",
+    "page_number": 1,
+    "staging_original": "workspace/20260729_043156_d50fea/staging/paper_0001_original.png",
+    "staging_aligned": "workspace/20260729_043156_d50fea/staging/paper_0001_aligned.jpg",
+    "staging_marked": "workspace/20260729_043156_d50fea/staging/paper_0001_marked.jpg",
+    "class_name": "2",
+    "roll": "১৮",
+    "name": "",
+    "section": "",
+    "score": 9,
+    "total_questions": 24,
+    "percentage": 37.5,
+    "alignment_confidence": 0.6674,
+    "review_required": false,
+    "fields": {
+      "name": {
+        "field_name": "name",
+        "text": "",
+        "confidence": 0.0,
+        "review_required": true
+      },
+      "class_name": {
+        "field_name": "class_name",
+        "text": "দি...",
+        "confidence": 35.0,
+        "review_required": true
+      },
+      "section": {
+        "field_name": "section",
+        "text": "",
+        "confidence": 0.0,
+        "review_required": true
+      },
+      "roll": {
+        "field_name": "roll",
+        "text": "",
+        "confidence": 0.0,
+        "review_required": true
+      },
+      "group_name": {
+        "field_name": "group_name",
+        "text": "",
+        "confidence": 0.0,
+        "review_required": true
+      },
+      "subject": {
+        "field_name": "subject",
+        "text": "",
+        "confidence": 0.0,
+        "review_required": true
+      },
+      "exam_date": {
+        "field_name": "exam_date",
+        "text": "",
+        "confidence": 0.0,
+        "review_required": true
+      },
+      "exam_year": {
+        "field_name": "exam_year",
+        "text": "২০২1৬",
+        "confidence": 0.0,
+        "review_required": true
+      }
+    },
+    "answers": {
+      "1": {
+        "question_no": 1,
+        "selected_option": "গ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3722,
+          0.2618,
+          1.0,
+          0.3155
+        ],
+        "status": "selected"
+      },
+      "16": {
+        "question_no": 16,
+        "selected_option": "ঘ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3407,
+          0.2618,
+          0.2397,
+          1.0
+        ],
+        "status": "selected"
+      },
+      "2": {
+        "question_no": 2,
+        "selected_option": "ঘ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3849,
+          0.2587,
+          0.265,
+          1.0
+        ],
+        "status": "selected"
+      },
+      "17": {
+        "question_no": 17,
+        "selected_option": "ক",
+        "confidence": 1.0,
+        "ink_ratios": [
+          1.0,
+          0.2744,
+          0.2902,
+          0.2555
+        ],
+        "status": "selected"
+      },
+      "3": {
+        "question_no": 3,
+        "selected_option": "ক",
+        "confidence": 1.0,
+        "ink_ratios": [
+          1.0,
+          0.2997,
+          0.2681,
+          0.3344
+        ],
+        "status": "selected"
+      },
+      "18": {
+        "question_no": 18,
+        "selected_option": "খ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3155,
+          1.0,
+          0.3123,
+          0.3281
+        ],
+        "status": "selected"
+      },
+      "4": {
+        "question_no": 4,
+        "selected_option": "ক",
+        "confidence": 1.0,
+        "ink_ratios": [
+          1.0,
+          0.2397,
+          0.2271,
+          0.2555
+        ],
+        "status": "selected"
+      },
+      "19": {
+        "question_no": 19,
+        "selected_option": "গ",
+        "confidence": 0.9868,
+        "ink_ratios": [
+          0.2839,
+          0.2334,
+          0.9905,
+          0.2177
+        ],
+        "status": "selected"
+      },
+      "5": {
+        "question_no": 5,
+        "selected_option": "ক",
+        "confidence": 1.0,
+        "ink_ratios": [
+          1.0,
+          0.2902,
+          0.2997,
+          0.3312
+        ],
+        "status": "selected"
+      },
+      "20": {
+        "question_no": 20,
+        "selected_option": "গ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3849,
+          0.347,
+          1.0,
+          0.3091
+        ],
+        "status": "selected"
+      },
+      "6": {
+        "question_no": 6,
+        "selected_option": "ঘ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.4038,
+          0.2934,
+          0.265,
+          1.0
+        ],
+        "status": "selected"
+      },
+      "21": {
+        "question_no": 21,
+        "selected_option": "ঘ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3375,
+          0.2871,
+          0.2681,
+          1.0
+        ],
+        "status": "selected"
+      },
+      "7": {
+        "question_no": 7,
+        "selected_option": "গ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3628,
+          0.3281,
+          1.0,
+          0.3249
+        ],
+        "status": "selected"
+      },
+      "22": {
+        "question_no": 22,
+        "selected_option": "ঘ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3312,
+          0.2902,
+          0.2587,
+          1.0
+        ],
+        "status": "selected"
+      },
+      "8": {
+        "question_no": 8,
+        "selected_option": "ক",
+        "confidence": 1.0,
+        "ink_ratios": [
+          1.0,
+          0.306,
+          0.2997,
+          0.3975
+        ],
+        "status": "selected"
+      },
+      "23": {
+        "question_no": 23,
+        "selected_option": "ঘ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3596,
+          0.3407,
+          0.3155,
+          1.0
+        ],
+        "status": "selected"
+      },
+      "9": {
+        "question_no": 9,
+        "selected_option": "খ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.47,
+          1.0,
+          0.3155,
+          0.347
+        ],
+        "status": "selected"
+      },
+      "24": {
+        "question_no": 24,
+        "selected_option": "ঘ",
+        "confidence": 0.983,
+        "ink_ratios": [
+          0.4448,
+          0.3281,
+          0.3565,
+          0.9905
+        ],
+        "status": "selected"
+      },
+      "10": {
+        "question_no": 10,
+        "selected_option": "খ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3659,
+          1.0,
+          0.2776,
+          0.3628
+        ],
+        "status": "selected"
+      },
+      "25": {
+        "question_no": 25,
+        "selected_option": "ক",
+        "confidence": 1.0,
+        "ink_ratios": [
+          1.0,
+          0.3596,
+          0.3028,
+          0.3407
+        ],
+        "status": "selected"
+      },
+      "11": {
+        "question_no": 11,
+        "selected_option": "খ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.388,
+          1.0,
+          0.2902,
+          0.3754
+        ],
+        "status": "selected"
+      },
+      "26": {
+        "question_no": 26,
+        "selected_option": null,
+        "confidence": 0.0597,
+        "ink_ratios": [
+          0.4038,
+          0.3659,
+          0.3249,
+          0.3312
+        ],
+        "status": "blank_or_ambiguous"
+      },
+      "12": {
+        "question_no": 12,
+        "selected_option": "গ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3186,
+          0.2334,
+          1.0,
+          0.3565
+        ],
+        "status": "selected"
+      },
+      "27": {
+        "question_no": 27,
+        "selected_option": null,
+        "confidence": 0.0935,
+        "ink_ratios": [
+          0.388,
+          0.3249,
+          0.2776,
+          0.306
+        ],
+        "status": "blank_or_ambiguous"
+      },
+      "13": {
+        "question_no": 13,
+        "selected_option": "গ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3312,
+          0.265,
+          1.0,
+          0.3438
+        ],
+        "status": "selected"
+      },
+      "28": {
+        "question_no": 28,
+        "selected_option": null,
+        "confidence": 0.0808,
+        "ink_ratios": [
+          0.4259,
+          0.3754,
+          0.2808,
+          0.3533
+        ],
+        "status": "blank_or_ambiguous"
+      },
+      "14": {
+        "question_no": 14,
+        "selected_option": "খ",
+        "confidence": 1.0,
+        "ink_ratios": [
+          0.3281,
+          1.0,
+          0.2713,
+          0.2681
+        ],
+        "status": "selected"
+      },
+      "29": {
+        "question_no": 29,
+        "selected_option": null,
+        "confidence": 0.081,
+        "ink_ratios": [
+          0.3912,
+          0.2776,
+          0.224,
+          0.3375
+        ],
+        "status": "blank_or_ambiguous"
+      },
+      "15": {
+        "question_no": 15,
+        "selected_option": "ক",
+        "confidence": 0.9757,
+        "ink_ratios": [
+          0.9842,
+          0.3502,
+          0.3281,
+          0.3028
+        ],
+        "status": "selected"
+      },
+      "30": {
+        "question_no": 30,
+        "selected_option": null,
+        "confidence": 0.0532,
+        "ink_ratios": [
+          0.4385,
+          0.4069,
+          0.3533,
+          0.3817
+        ],
+        "status": "blank_or_ambiguous"
+      }
+    },
+    "output_folder": "outputs/Demo_Annual_Examination_20260729_043156_d50fea/2/18_2",
+    "original_image": "outputs/Demo_Annual_Examination_20260729_043156_d50fea/2/18_2/18_2_original.png",
+    "marked_image": "outputs/Demo_Annual_Examination_20260729_043156_d50fea/2/18_2/18_2_marked.jpg"
+  }
+]
